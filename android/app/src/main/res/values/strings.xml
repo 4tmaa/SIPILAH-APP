@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SIPILAH</string>
+    
+    <string name="facebook_app_id">1189969559694658</string>
+    <string name="fb_login_protocol_scheme">fb1189969559694658</string>
+</resources>
